@@ -1,0 +1,47 @@
+.ee {
+    width: 200px;
+    height: 200px;
+}
+
+.dd {
+    height: 100vh;
+    width: 100%;
+}
+
+.bzu img {
+    float: left;
+}
+
+.bzu {
+    height: 200px;
+    ;
+    text-align: center;
+    background-color: #CB965A;
+    border: 2px #202C39 solid;
+    color: #2E4057;
+
+}
+
+.clear {
+    clear: both;
+}
+
+p {
+
+    font-size: x-large;
+    font-family: "Dancing Script", cursive;
+    font-weight: 900;
+}
+
+h1 {
+    font-family: "Londrina Sketch", sans-serif;
+}
+
+i {
+    font-size: 30px;
+
+}
+
+.clear {
+    clear: both;
+}
